@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋,  This is Abdullah Al Noman.
 #### Data Science Enthusiast
  I love to work, I try to do any work with responsibility. I always try to maintain honesty and devotion. I always consider myself worthy of my work. I do not hesitate to work hard to reach the goal.
@@ -12,7 +9,7 @@ Skills: Pyhthon/ C/ Java/HTML/ CSS
 - 💬 Ask me about Machine learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noman-abdullah2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Md Abdullah Al Noman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Noman Al Abdullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Md Abdullah Al Noman)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/noman-abdullah2000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-abdullah-al-noman-4567811b8//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/al.noman827646)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/2000alnoman)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noman-abdullah2000)](https://github.com/ryo-ma/github-profile-trophy)
 
